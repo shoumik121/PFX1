@@ -1,4 +1,4 @@
-# Single Page Dev Portfolio Resource Bundle Created by Shoumik And Others
+# Single Page Dev Portfolio Resource Bundle Created by Shoumik And Mujib
 
 Welcome to the Single Page Dev Portfolio Resource Bundle! This package contains everything you need to create a stunning, interactive portfolio using React, Next.js, TailwindCSS, and Framer Motion.
 
